@@ -3,6 +3,12 @@ body {
   font-family: Arial, sans-serif;
   background-color: babyblue;
 }
+<<<<<<< HEAD
     center { .p 
    text-align: center;
     }
+=======
+body{
+    background-color: aqua;
+}   
+>>>>>>> 8962462d9a3e86060c8cb2b316b312eaee3e1fea
